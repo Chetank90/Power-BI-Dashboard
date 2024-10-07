@@ -1,5 +1,6 @@
 # Power-BI-Dashboard
 Credit Card Transaction Dashboard
+
 Project Objective:
 Create a comprehensive weekly credit card dashboard that delivers real-time insights into critical performance measures and trends, allowing stakeholders to effectively monitor and analyze credit card operations.
 Steps used to create Dashboard:
